@@ -1,4 +1,4 @@
-# game_scoop_768
+# The NES Salad
 
 Around the 28 minute mark, Daemon wants to know what the most common titles, or the title that will make the most amount of money on the NES
 
