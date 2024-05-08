@@ -1,3 +1,6 @@
 .env
 creds.sh
 data/
+.ipynb_checkpoints/
+examples/
+
